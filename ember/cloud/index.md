@@ -9,3 +9,4 @@ Ember Cloud is a set of programs running in cloud to which we are giving access 
 
 This chapter will help you in the following areas:
 
+1. Set up a login and introduce you to Teleport
